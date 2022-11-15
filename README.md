@@ -4,4 +4,4 @@
 
 * This repository shows you how to succesfully create a simple UNIX shell.
 
-* `All codes are open source.
+* All codes are open source.

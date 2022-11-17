@@ -6,5 +6,5 @@
 
 * All codes are open source.
 
-/executed with
+/*executed with
 `gcc -Wall -Werror -Wextra -pedantic *.c -o hsh`

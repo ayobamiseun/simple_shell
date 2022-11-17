@@ -5,3 +5,5 @@
 * This repository shows you how to succesfully create a simple UNIX shell.
 
 * All codes are open source.
+
+`gcc -Wall -Werror -Wextra -pedantic *.c -o hsh`

@@ -1,6 +1,9 @@
 ### Simple shell project
 
-* Core contributors: @yinka and @Ayobammi
+### Core contributors:
+* [**John Adeyinka Fakile**](https://github.com/SIFU-john)
+* [**Adegoke Ayobami**](https://github.com/ayobamiseun)
+
 
 * This repository shows you how to succesfully create a simple UNIX shell.
 
